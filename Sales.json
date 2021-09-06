@@ -1,0 +1,68 @@
+{
+ "1": {
+  "Prod_id": "11265",
+  "Quantity": 4,
+  "Amount": 443.6,
+  "Date & Time": "2021-09-06 09:58:09"
+ },
+ "2": {
+  "Prod_id": "13527",
+  "Quantity": 5,
+  "Amount": 500.0,
+  "Date & Time": "2021-09-06 10:01:02"
+ },
+ "3": {
+  "Prod_id": "13527",
+  "Quantity": 5,
+  "Amount": 500.0,
+  "Date & Time": "2021-09-06 10:04:49"
+ },
+ "4": {
+  "Prod_id": "10785",
+  "Quantity": 1,
+  "Amount": 150.0,
+  "Date & Time": "2021-09-06 10:06:25"
+ },
+ "5": {
+  "Prod_id": "11944",
+  "Quantity": 3,
+  "Amount": 240.0,
+  "Date & Time": "2021-09-06 10:07:07"
+ },
+ "6": {
+  "Prod_id": "10866",
+  "Quantity": 10,
+  "Amount": 150.0,
+  "Date & Time": "2021-09-06 10:07:33"
+ },
+ "7": {
+  "Prod_id": "14611",
+  "Quantity": 2,
+  "Amount": 56.0,
+  "Date & Time": "2021-09-06 10:08:50"
+ },
+ "8": {
+  "Prod_id": "14236",
+  "Quantity": 7,
+  "Amount": 700.0,
+  "Date & Time": "2021-09-06 10:09:49"
+ },
+ "9": {
+  "Prod_id": "11265",
+  "Quantity": 1,
+  "Amount": 110.9,
+  "Date & Time": "2021-09-06 10:10:10"
+ },
+ "10": {
+  "Prod_id": "10426",
+  "Quantity": 3,
+  "Amount": 630.0,
+  "Date & Time": "2021-09-06 10:10:37"
+ },
+ "11": {
+  "Prod_id": "12451",
+  "Quantity": 1,
+  "Amount": 50.0,
+  "Date & Time": "2021-09-06 10:22:34"
+ }
+}
